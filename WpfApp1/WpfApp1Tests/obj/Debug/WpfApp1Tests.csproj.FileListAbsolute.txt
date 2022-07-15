@@ -1,0 +1,11 @@
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\obj\Debug\WpfApp1Tests.csproj.AssemblyReference.cache
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\obj\Debug\WpfApp1Tests.csproj.CoreCompileInputs.cache
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\bin\Debug\WpfApp1Tests.dll
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\bin\Debug\WpfApp1Tests.pdb
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\bin\Debug\WpfApp1.exe
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\bin\Debug\WpfApp1.pdb
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\bin\Debug\WpfApp1.exe.config
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\obj\Debug\WpfApp1Tests.csproj.CopyComplete
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\obj\Debug\WpfApp1Tests.dll
+C:\Users\PSENTHI\source\repos\WpfApp1\WpfApp1Tests\obj\Debug\WpfApp1Tests.pdb
